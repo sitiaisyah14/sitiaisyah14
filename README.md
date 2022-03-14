@@ -20,7 +20,7 @@
 
 ## Experience:
 [<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601.jpg?w=740" />][webdev]
-#### 1. LKS Competition Wilker II | Desain Graphic Techonology | Jember `2019`
+#### 1. LKS Competition Wilker II Jatim| Desain Graphic Techonology | Jember `2019`
 #### 2. Student Creativity Program (PKM) Funding Winner | PKM-KC | Malang `2020 - 2021`
 #### 3. KMIPN III Contest Participants | Cipta Inovasi | Malang `2020 - 2021`
 #### 4. 1st Place in Internal Competition | Bisnis TIK | Malang `2021 - 2022`
