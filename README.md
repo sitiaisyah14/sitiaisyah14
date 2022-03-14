@@ -1,5 +1,5 @@
 # Hi there, I'm Aisyah - aka [Aisyah](https://instagram.com/_aisyaa14) 👋
-[<img align="right" alt="MySQL" width="400px" src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=740" />][webdev]
+[<img align="right" alt="MySQL" width="350px" src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=740" />][webdev]
 ## About me:
 - 🏫 I am currently studying at [Malang State Polytechnic](https://www.polinema.ac.id/)
 - 💻 I am learning Python, Javascript, HTML, PHP and Java
@@ -19,7 +19,7 @@
 
 
 ## Experience:
-[<img align="right" alt="MySQL" width="350px" src="https://img.freepik.com/free-vector/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601.jpg?w=740" />][webdev]
+[<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601.jpg?w=740" />][webdev]
 #### 1. LKS Competition Wilker II | Desain Graphic Techonology | Jember `2019`
 #### 2. Student Creativity Program (PKM) Funding Winner | PKM-KC | Malang `2020 - 2021`
 #### 3. KMIPN III Contest Participants | Cipta Inovasi | Malang `2020 - 2021`
