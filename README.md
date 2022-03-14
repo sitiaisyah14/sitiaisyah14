@@ -2,7 +2,7 @@
 ## About me:
 - 🏫 I am currently studying at [Malang State Polytechnic](https://www.polinema.ac.id/)
 - 💻 I am learning Python, Javascript, HTML, PHP and Java
-- 🏆 I have Graphic Designer skill
+- 🏆 I have Graphic Designer, Video Editing, Animation skills
 - 💬 Ask me about anything
 - 📫 How to contact me: sitiaisyah4110@gmail.com
 
@@ -33,9 +33,11 @@
 [<img align="left" alt="Adobe Photoshop" width="30px" src="https://img.icons8.com/color/48/000000/adobe-photoshop--v1.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Adobe Premier" width="30px" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v1.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Adobe Flash" width="30px" src="https://img.icons8.com/color/48/000000/adobe-flash--v1.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Filmora" width="30px" src="https://img.icons8.com/color/48/000000/filmora.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Word" width="30px" src="https://img.icons8.com/fluency/48/000000/microsoft-word-2019.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Excel" width="30px" src="https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PPT" width="30px" src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png" style="padding-right:10px;" />][webdev]
+
 <br />
 <br />
 
