@@ -1,10 +1,13 @@
-# Hi there, I'm Aisyah - aka [sitiaisyah](https://www.youtube.com/channel/UCm17-AcMDibYaqwy1_O40bA) 👋
+# Hi there, I'm Aisyah - aka [Aisyah](https://instagram.com/_aisyaa14) 👋
+[<img align="right" alt="MySQL" width="400px" src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=740" />][webdev]
 ## About me:
 - 🏫 I am currently studying at [Malang State Polytechnic](https://www.polinema.ac.id/)
 - 💻 I am learning Python, Javascript, HTML, PHP and Java
 - 🏆 I have Graphic Designer, Video Editing, Animation skills
 - 💬 Ask me about anything
 - 📫 How to contact me: sitiaisyah4110@gmail.com
+
+
 
 ## Education:
 #### 1. [Politeknik Negeri Malang](https://www.polinema.ac.id/) | Information Technology Department | Malang `2020 - Now`
