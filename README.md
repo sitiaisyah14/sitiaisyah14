@@ -16,7 +16,10 @@
  #### 2. [SMKN 2 Sukorejo]() | Multimedia | Pasuruan `2017-2020`
    - Multimedia
 
+
+
 ## Experience:
+[<img align="right" alt="MySQL" width="350px" src="https://img.freepik.com/free-vector/student-with-laptop-studying-online-course_74855-5293.jpg?t=st=1647235604~exp=1647236204~hmac=b352c513e71c9b15ad5b5a70a70138544ad2509b2de679d204ed8f1c2c6cb914&w=826" />][webdev]
 #### 1. LKS Competition Wilker II 2019 | Desain Graphic Techonology | Jember `2019`
 #### 2. Student Creativity Program (PKM) Funding Winner | PKM-KC | Malang `2020 - 2021`
 #### 3. KMIPN III Contest Participants | Cipta Inovasi | Malang `2020 - 2021`
@@ -47,15 +50,11 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCm17-AcMDibYaqwy1_O40bA#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCm17-AcMDibYaqwy1_O40bA#gh-dark-mode-only)
+[![website](https://img.icons8.com/color/48/000000/youtube-play.png)](https://www.youtube.com/channel/UCm17-AcMDibYaqwy1_O40bA#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/aisyaa140102#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/aisyaa140102#gh-dark-mode-only)
+[![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/aisyaa140102#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/_aisyaa14#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/_aisyaa14#gh-dark-mode-only)
-
+[![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/_aisyaa14#gh-light-mode-only)
 
 
 [webdev]: https://github.com/sitiaisyah14
