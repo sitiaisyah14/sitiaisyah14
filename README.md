@@ -56,6 +56,8 @@
 [![website](https://img.icons8.com/color/48/000000/twitter--v1.png)](https://twitter.com/aisyaa140102#gh-light-mode-only)
 &nbsp;&nbsp;
 [![website](https://img.icons8.com/fluency/48/000000/instagram-new.png)](https://instagram.com/_aisyaa14#gh-light-mode-only)
+&nbsp;&nbsp;
+[![website](https://img.icons8.com/color/48/000000/telegram-app--v1.png)](https://t.me/aisyaa14#gh-light-mode-only)
 
 
 [webdev]: https://github.com/sitiaisyah14
