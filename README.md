@@ -32,7 +32,7 @@
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="PHP" width="30px" src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-php-web-and-seo-prettycons-flat-prettycons.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="HTML" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-html-computer-science-flaticons-lineal-color-flat-icons.png" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Java Script" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-javascript-computer-programming-flaticons-lineal-color-flat-icons.png" style="padding-right:10px;" />][webdev]
+[<img align="left" alt="Java Script" width="30px" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-java-script-web-development-flaticons-lineal-color-flat-icons-2.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Laravel" width="30px" src="https://img.icons8.com/fluency/48/000000/laravel.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Java" width="30px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Figma" width="30px" src="https://img.icons8.com/fluency/48/000000/figma.png" style="padding-right:10px;" />][webdev]
