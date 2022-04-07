@@ -63,5 +63,13 @@
 [webdev]: https://github.com/sitiaisyah14
 
 ### Content on github :
-![sitiaisyah14 GitHub stats](https://github-readme-stats.vercel.app/api?username=sitiaisyah14&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sitiaisyah14&layout=compact)](https://github.com/sitiaisyah14/github-readme-stats)
+<br/>
+<p align="left">
+  <a href="https://sitiaisyah14.dev/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sitiaisyah14&show_icons=true&theme=omni&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sitiaisyah14&theme=omni&hide_border=true" />
+  </a>
+</p>
+<br>
+
+[![Siti Aisyah' Activity Graph](https://activity-graph.herokuapp.com/graph?username=sitiaisyah14&custom_title=sitiaisyah14's%20Contribution%20Graph&theme=omni&bg_color=191622&hide_border=true&line=e6dd79&point=d467a7)](https://sitiaisyah14.dev)
