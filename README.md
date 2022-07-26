@@ -1,5 +1,5 @@
 # Hi there, I'm Aisyah - aka [Aisyah](https://instagram.com/_aisyaa14) 👋
-[<img align="right" alt="MySQL" width="350px" src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=740" />][webdev]
+[<img align="right" alt="MySQL" width="275px" src="https://img.freepik.com/free-vector/illustration-female-character-wearing-hijab-working-office_10045-686.jpg?t=st=1658821433~exp=1658822033~hmac=4dfbd3e89be96163f2652fac60eabbf7a172a500e62e2da9cc525d8e589dabc0&w=740" />][webdev]
 ## About me:
 - 🏫 I am currently studying at [Malang State Polytechnic](https://www.polinema.ac.id/)
 - 💻 I am learning Python, Javascript, HTML, PHP and Java
@@ -10,6 +10,7 @@
 
 
 ## Education:
+   [<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?w=740" />][webdev]
 #### 1. [Politeknik Negeri Malang](https://www.polinema.ac.id/) | Information Technology Department | Malang `2020 - Now`
   - Information technology major
   - D4-Informatics Engineering Study Program
@@ -17,15 +18,35 @@
    - Multimedia
 
 
+## Non-Formal Education:
+#### 1. Soft Skills Personal Branding training Digital Talent Scholarship Post-Training Program | Malang `2021`
+#### 2. Soft Skills Interpersonal Skill training Digital Talent Scholarship Post-Training Program | Malang `2021`
+#### 3. Junior Graphics training Program Designer Vocational School Digital Graduate Academy Talent Scholarship | Malang `2021`
+#### 4. Edupreneur UKM Usaha Mahasiswa | Malang `2021`
+#### 5. Digitalpreneur Kolaborasi UKM Usaha Mahasiswa dan BEM Politeknik Negeri Malang | Malang `2021`
+#### 6. Online Workshop Participants - Video Editing Tips & Tricks | Malang `2021`
+#### 7. Artificial Intelligence Innovation Summit 2021 | International `2021`
+#### 8. Class Graduation Introduction to Logic Programming (Programming Logic 101) | Malang `2021`
+#### 9. Skeleton Certification National Qualification Indonesia Level II Fields Multimedia | Pasuruan `2020`
+#### 10. Junior Graphic Competence Field designer IT Multimedia | Malang `2021`
 
-## Experience:
+
+## Achievement:
 [<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/team-happy-employees-winning-award-celebrating-success-business-people-enjoying-victory-getting-gold-cup-trophy-vector-illustration-reward-prize-champions-s_74855-8601.jpg?w=740" />][webdev]
 #### 1. LKS Competition Wilker II Jatim| Desain Graphic Techonology | Jember `2019`
 #### 2. Student Creativity Program (PKM) Funding Winner | PKM-KC | Malang `2020 - 2021`
 #### 3. KMIPN III Contest Participants | Cipta Inovasi | Malang `2020 - 2021`
 #### 4. 1st Place in Internal Competition | Bisnis TIK | Malang `2021 - 2022`
----
+#### 5. Student Creativity Program (PKM) Funding Winner | PKM-PI | Malang `2021 - 2022`
 
+
+## Committee and Organization:
+[<img align="right" alt="MySQL" width="250px" src="https://img.freepik.com/free-vector/communication-flat-icon_1262-18771.jpg?t=st=1658822276~exp=1658822876~hmac=4c38d9382fa62ea02d0b83c3aabf3771560f884c71843136175d30ff06bc0ba5&w=740" />][webdev]
+#### 1. Member of Student Business UKM Organization | Malang `2020 - Now`
+#### 2. Committee for Student Business UKM National Seminar | Malang `2021`
+#### 2. Giras Community Volunteers in Graphic Design and Content Creator | Malang `2022`
+
+---
 ### Languages and Tools:
 
 [<img align="left" alt="MySQL" width="30px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png" />][webdev]
