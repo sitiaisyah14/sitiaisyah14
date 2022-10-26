@@ -38,6 +38,7 @@
 #### 3. KMIPN III Contest Participants | Cipta Inovasi | Malang `2020 - 2021`
 #### 4. 1st Place in Internal Competition | Bisnis TIK | Malang `2021 - 2022`
 #### 5. Student Creativity Program (PKM) Funding Winner | PKM-PI | Malang `2021 - 2022`
+#### 6. 2nd Winner of Internal Competition | Inovasi Aplikasi | Malang `2022-2023`
 
 
 ## Committee and Organization:
