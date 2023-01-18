@@ -39,6 +39,9 @@
 #### 4. 1st Place in Internal Competition | Bisnis TIK | Malang `2021 - 2022`
 #### 5. Student Creativity Program (PKM) Funding Winner | PKM-PI | Malang `2021 - 2022`
 #### 6. 2nd Winner of Internal Competition | Inovasi Aplikasi | Malang `2022-2023`
+#### 7. Participants of Gemastik XV National Student Exhibition in the Field of ICT | LKTI TIK | Malang `2022-2023`
+#### 8. Semifinalist in the Application Development Competition | App Development | Malang `2022-2023`
+#### 9. Participants of Vocational Olympiad 2022 | Web Design | Malang `2022-2023`
 
 
 ## Committee and Organization:
