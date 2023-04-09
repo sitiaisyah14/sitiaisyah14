@@ -97,7 +97,7 @@
   <a href="https://github.com/sitiaisyah14">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sitiaisyah14&show_icons=true&theme=omni&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sitiaisyah14&theme=omni&hide_border=true" />
-     <img height="192px" width="49.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sitiaisyah14&langs_count=8&layout=compact&theme=omni&hide_border=true"/>
+<img width="49.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sitiaisyah14&langs_count=8&layout=compact&theme=omni&hide_border=true"/>
   </a>
    </p>
 <br>
