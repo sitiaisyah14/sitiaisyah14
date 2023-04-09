@@ -93,11 +93,15 @@
 
 ### Content on github :
 <br/>
-<p align="left">
+<p align="center">
   <a href="https://github.com/sitiaisyah14">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sitiaisyah14&show_icons=true&theme=omni&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=sitiaisyah14&theme=omni&hide_border=true" />
-<img width="49.5%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sitiaisyah14&langs_count=8&layout=compact&theme=omni&hide_border=true"/>
+     <img  width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=sitiaisyah14&theme=omni&hide_border=true" />
+       </a>
+   </p>
+   <p align="left">
+  <a href="https://github.com/sitiaisyah14">
+          <img height="30%" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=sitiaisyah14&show_icons=true&theme=omni&hide_border=true" />
+      <img height="60%" width="38%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=sitiaisyah14&langs_count=8&layout=compact&theme=omni&hide_border=true"/>
   </a>
    </p>
 <br>
