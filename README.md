@@ -18,7 +18,7 @@
    - Multimedia
 
 
-## Non-Formal Education:
+## Non-Formal Education, Training and Seminar :
 #### 1. Soft Skills Personal Branding training Digital Talent Scholarship Post-Training Program | Malang `2021`
 #### 2. Soft Skills Interpersonal Skill training Digital Talent Scholarship Post-Training Program | Malang `2021`
 #### 3. Junior Graphics training Program Designer Vocational School Digital Graduate Academy Talent Scholarship | Malang `2021`
